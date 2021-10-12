@@ -1,0 +1,35 @@
+h1 {
+  color: rgba(0, 0, 255, 0.74);
+  text-align: center;
+}
+h2 {
+  color: green;
+  text-align: center;
+}
+img {
+  width: 250px;
+  padding-left: 550px;
+}
+h4 {
+  margin-top: 0px;
+  margin-left: 25px;
+  font-size: 15px;
+  text-align: center;
+}
+h3 {
+  margin-left: 25px;
+  text-align: center;
+}
+p {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 20px;
+  font-weight: bold;
+  padding-left: 30px;
+}
+.pro {
+  font-weight: normal;
+}
+.proTag {
+  font-weight: normal;
+  color: rgb(189, 7, 189);
+}
