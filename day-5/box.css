@@ -1,0 +1,48 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+.section-b {
+  border: 1px solid red;
+  height: 300px;
+  width: 700px;
+  display: flex;
+}
+/* left */
+.left {
+  border: 1px solid blue;
+  background-color: #4abebd;
+  width: 50%;
+  color: white;
+  padding: 30px 70px;
+}
+.left div {
+  margin-top: 30px;
+}
+.month {
+  font-size: 0.85rem;
+  font-weight: 200;
+}
+.sign {
+  text-decoration: none;
+  color: white;
+  border: 1px solid greenyellow;
+  background-color: greenyellow;
+  border-radius: 5px;
+  padding: 10px 50px;
+}
+/* Rigth */
+.right {
+  border: 1px solid black;
+  width: 50%;
+  background-color: #2ab2b1;
+  color: white;
+  padding: 20px;
+}
+.container {
+  width: 200px;
+}
+.try {
+  margin-top: 10px;
+}
