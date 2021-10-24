@@ -1,0 +1,28 @@
+.all {
+  border: 1px solid black;
+  background-color: rgb(240, 215, 215);
+}
+.home {
+  border: 1px solid black;
+  display: flex;
+  justify-content: center;
+}
+.home1 {
+  border: 1px solid black;
+  padding: 10px;
+  color: black;
+  display: flex;
+  justify-content: center;
+}
+
+.home2 {
+  border: 1px solid black;
+  padding: 20px;
+  font-size: 20px;
+}
+.home3 {
+  border: 1px solid black;
+  padding: 10px;
+  display: flex;
+  justify-content: center;
+}

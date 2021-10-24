@@ -1,0 +1,32 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+.home {
+  border: 1px solid rgb(184, 182, 182);
+  display: flex;
+  background-color: rgba(219, 227, 227, 0.966);
+}
+.home h1 {
+  padding: 20px;
+  color: hsl(232, 61%, 14%);
+}
+.nav1,
+.nav2,
+.nav3,
+.nav4 {
+  text-decoration: none;
+  padding: 10px;
+  padding-top: 26px;
+  font-size: 22px;
+  padding-left: 20px;
+  color: hsl(244, 38%, 16%);
+}
+.nav {
+  width: 100px;
+  display: flex;
+}
+.nav1 {
+  padding-left: 650px;
+}
