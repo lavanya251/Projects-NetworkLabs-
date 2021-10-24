@@ -1,0 +1,65 @@
+.all {
+  display: flex;
+  margin-left: 300px;
+  margin-top: 100px;
+}
+body {
+  background-color: rgb(148, 148, 238);
+}
+img {
+  width: 350px;
+  height: 450px;
+  /* border-radius: 5%;*/
+}
+
+.container2 {
+  padding-left: 40px;
+  border: 1px solid white;
+  background-color: white;
+  /*border-radius: 5%;*/
+}
+.sec {
+  position: absolute;
+  bottom: 100px;
+  color: white;
+}
+.sec1 {
+  padding-left: 10px;
+}
+.sec2 {
+  padding-left: 10px;
+}
+.sec3 {
+  font-size: 12px;
+  padding-left: 200px;
+}
+.container2 h1 {
+  padding-right: 30px;
+}
+.home1 {
+  padding-bottom: 15px;
+  font-weight: bold;
+}
+.home2 {
+  padding-bottom: 15px;
+  font-weight: bold;
+}
+.home3 {
+  padding-bottom: 15px;
+  font-weight: bold;
+}
+.home4 {
+  padding-bottom: 15px;
+  font-weight: bold;
+}
+.home5 a {
+  padding-left: 23px;
+}
+.home6 {
+  padding-top: 20px;
+}
+#button {
+  background-color: rgb(55, 55, 238);
+  color: white;
+  padding: 10px 20px;
+}
